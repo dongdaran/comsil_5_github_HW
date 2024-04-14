@@ -9,10 +9,15 @@ void Sad() {
 	cout << "Happy" << endl;
 }
 
+void Fear() {
+	cout << "Happy" << endl;
+}
+
 int main() {
 
 	Happy();
 	Sad();
+	Fear();
 
 	return 0;
 	
